@@ -1,8 +1,8 @@
 # Green-Got VIV iOS SDK
 
-Binary distribution of VivSDK 0.1.0. Requires iOS 14 or newer.
+Binary distribution of VivSDK 0.2.0. Requires iOS 14 or newer.
 Add `https://github.com/green-got/viv-sdk-ios.git` as a Swift Package Manager dependency,
-select version `0.1.0`, then `import VivSDK`.
+select version `0.2.0`, then `import VivSDK`.
 
 Documentation: https://ggbs.gg/viv/documentation/
 
